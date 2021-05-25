@@ -12,3 +12,6 @@ Such profound words
 Difficult to be at level 
 But indeed smart, with no but
 
+Blue is greener than yellow
+Red is whiter than purple
+Is grey a color?
