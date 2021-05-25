@@ -20,3 +20,7 @@ Don't ask what your country can do for you.
 Don't ask what others can do for you.
 But instead, ask what can you do for your country and others.
 
+—-this is MinhHien additional pieces
+happy to collaborate to you and type somthing…line2
+
+....can you see my text now...
