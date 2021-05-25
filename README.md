@@ -16,3 +16,7 @@ Such profound words
 Difficult to be at level 
 But indeed smart, with no but
 
+Don't ask what your country can do for you.
+Don't ask what others can do for you.
+But instead, ask what can you do for your country and others.
+
