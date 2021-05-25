@@ -24,3 +24,7 @@ But instead, ask what can you do for your country and others.
 happy to collaborate to you and type somthing…line2
 
 ....can you see my text now...
+
+I think everyone have to learn new things day by day.
+Afterwards people get confidence on what they learn and apply on real life.
+They will be statisfied when they will work on it.
