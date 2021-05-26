@@ -1,15 +1,19 @@
-4.Git-Collage.md
+# Exquisite-corpse-Heba-Elabrak
 
-Step 1: Initialization
-1.	Create a GitHub repository named "Exquisite-corpse-Your-Name"
-Heba@Ashraf-PC MINGW64 ~/Desktop/my_repo (master)
-$  mkdir Exquisite-corpse-Heba-elabrak
+Never give up 
+see the beautiful in things 
+Empower others and enjoy the magic 
 
-2.	Open "Exquisite-corpse-Your-Name" whit the command cd
-Heba@Ashraf-PC MINGW64 ~/Desktop/my_repo (master)
-$  cd Exquisite-corpse-Heba-elabrak
+I am tall but not so tall.
+I am big but not so big.
+I am smart but, but no but.
 
-3.	Create a README.md file by using command nano (if you are on Ubuntu)
-Heba@Ashraf-PC MINGW64 ~/Desktop/my_repo/Exquisite-corpse-Heba-elabrak (master)
-$ notepad README.md
+I am good but also bad. 
+I am the one who sometimes makes you pretty mad. 
+But never forget I can make you smile.
+
+Such profound words
+Difficult to be at level 
+But indeed smart, with no but
+
 
